@@ -1,3 +1,3 @@
 
 # app.py
-print("Aplicação versão 1.0")
+print("Aplicação versão 2.5")
